@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CMapTypes>
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="120" />
+	  <flags value="537001984" />
+	  <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.053818196" y="-0.024237545" z="0.012059748" />
+      <bbMax x="0.01744555" y="0.016419861" z="0.86578083" />
+      <bsCentre x="-0.018186323" y="-0.003908842" z="0.4389203" />
+      <bsRadius value="0.42882726" />
+      <hdTextureDist value="120" />
+      <name>katana_01a</name>
+      <physicsDictionary>katana_01a</physicsDictionary>
+	  <textureDictionary>katana_txt</textureDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>katana_01a</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="120" />
+	  <flags value="537001984" />
+	  <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.053818215" y="-0.02423755" z="-0.7579403" />
+      <bbMax x="0.017445587" y="0.016419865" z="0.09578085" />
+      <bsCentre x="-0.018186314" y="-0.003908843" z="-0.33107972" />
+      <bsRadius value="0.4288273" />
+      <hdTextureDist value="120" />
+      <name>katana_01b</name>
+      <physicsDictionary>katana_01b</physicsDictionary>
+	  <textureDictionary>katana_txt</textureDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>katana_01b</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="120" />
+	  <flags value="537001984" />
+	  <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.053818196" y="-0.024237545" z="0.012059748" />
+      <bbMax x="0.01744555" y="0.016419861" z="0.86578083" />
+      <bsCentre x="-0.018186323" y="-0.003908842" z="0.4389203" />
+      <bsRadius value="0.42882726" />
+      <hdTextureDist value="120" />
+      <name>katana_02a</name>
+      <physicsDictionary>katana_02a</physicsDictionary>
+	  <textureDictionary>katana_txt</textureDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>katana_02a</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="120" />
+	  <flags value="537001984" />
+	  <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.053818215" y="-0.02423755" z="-0.7579403" />
+      <bbMax x="0.017445587" y="0.016419865" z="0.09578085" />
+      <bsCentre x="-0.018186314" y="-0.003908843" z="-0.33107972" />
+      <bsRadius value="0.4288273" />
+      <hdTextureDist value="120" />
+      <name>katana_02b</name>
+      <physicsDictionary>katana_02b</physicsDictionary>
+	  <textureDictionary>katana_txt</textureDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>katana_02b</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="120" />
+	  <flags value="537001984" />
+	  <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.053818196" y="-0.024237545" z="0.012059748" />
+      <bbMax x="0.01744555" y="0.016419861" z="0.86578083" />
+      <bsCentre x="-0.018186323" y="-0.003908842" z="0.4389203" />
+      <bsRadius value="0.42882726" />
+      <hdTextureDist value="120" />
+      <name>katana_03a</name>
+      <physicsDictionary>katana_03a</physicsDictionary>
+	  <textureDictionary>katana_txt</textureDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>katana_03a</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="120" />
+	  <flags value="537001984" />
+	  <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.053818215" y="-0.02423755" z="-0.7579403" />
+      <bbMax x="0.017445587" y="0.016419865" z="0.09578085" />
+      <bsCentre x="-0.018186314" y="-0.003908843" z="-0.33107972" />
+      <bsRadius value="0.4288273" />
+      <hdTextureDist value="120" />
+      <name>katana_03b</name>
+      <physicsDictionary>katana_03b</physicsDictionary>
+	  <textureDictionary>katana_txt</textureDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>katana_03b</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="120" />
+	  <flags value="537001984" />
+	  <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.053818196" y="-0.024237545" z="0.012059748" />
+      <bbMax x="0.01744555" y="0.016419861" z="0.86578083" />
+      <bsCentre x="-0.018186323" y="-0.003908842" z="0.4389203" />
+      <bsRadius value="0.42882726" />
+      <hdTextureDist value="120" />
+      <name>katana_04a</name>
+      <physicsDictionary>katana_04a</physicsDictionary>
+	  <textureDictionary>katana_txt</textureDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>katana_04a</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="120" />
+	  <flags value="537001984" />
+	  <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.053818215" y="-0.02423755" z="-0.7579403" />
+      <bbMax x="0.017445587" y="0.016419865" z="0.09578085" />
+      <bsCentre x="-0.018186314" y="-0.003908843" z="-0.33107972" />
+      <bsRadius value="0.4288273" />
+      <hdTextureDist value="120" />
+      <name>katana_04b</name>
+      <physicsDictionary>katana_04b</physicsDictionary>
+	  <textureDictionary>katana_txt</textureDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>katana_04b</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="120" />
+	  <flags value="537001984" />
+	  <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.053818196" y="-0.024237545" z="0.012059748" />
+      <bbMax x="0.01744555" y="0.016419861" z="0.86578083" />
+      <bsCentre x="-0.018186323" y="-0.003908842" z="0.4389203" />
+      <bsRadius value="0.42882726" />
+      <hdTextureDist value="120" />
+      <name>katana_05a</name>
+      <physicsDictionary>katana_05a</physicsDictionary>
+	  <textureDictionary>katana_txt</textureDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>katana_05a</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="120" />
+	  <flags value="537001984" />
+	  <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.053818215" y="-0.02423755" z="-0.7579403" />
+      <bbMax x="0.017445587" y="0.016419865" z="0.09578085" />
+      <bsCentre x="-0.018186314" y="-0.003908843" z="-0.33107972" />
+      <bsRadius value="0.4288273" />
+      <hdTextureDist value="120" />
+      <name>katana_05b</name>
+      <physicsDictionary>katana_05b</physicsDictionary>
+	  <textureDictionary>katana_txt</textureDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>katana_05b</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="120" />
+	  <flags value="537001984" />
+	  <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.053818196" y="-0.024237545" z="0.012059748" />
+      <bbMax x="0.01744555" y="0.016419861" z="0.86578083" />
+      <bsCentre x="-0.018186323" y="-0.003908842" z="0.4389203" />
+      <bsRadius value="0.42882726" />
+      <hdTextureDist value="120" />
+      <name>katana_06a</name>
+      <physicsDictionary>katana_06a</physicsDictionary>	  
+	  <textureDictionary>katana_txt</textureDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>katana_06a</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="120" />
+	  <flags value="537001984" />
+	  <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.053818215" y="-0.02423755" z="-0.7579403" />
+      <bbMax x="0.017445587" y="0.016419865" z="0.09578085" />
+      <bsCentre x="-0.018186314" y="-0.003908843" z="-0.33107972" />
+      <bsRadius value="0.4288273" />
+      <hdTextureDist value="120" />
+      <name>katana_06b</name>
+      <physicsDictionary>katana_06b</physicsDictionary>	  
+	  <textureDictionary>katana_txt</textureDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>katana_06b</assetName>
+    </Item>
+  </archetypes>
+  <name>katana</name>
+</CMapTypes>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CMapTypes>
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="120" />
+	  <flags value="537001984" />
+	  <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.030957028" y="-0.030957028" z="-0.4039751" />
+      <bbMax x="0.030957028" y="0.030957028" z="0.3950247" />
+      <bsCentre x="0.0" y="0.0" z="-0.004475206" />
+      <bsRadius value="0.4018916" />
+      <hdTextureDist value="120" />
+      <name>bat_01</name>
+      <physicsDictionary>bat_01</physicsDictionary>
+	  <textureDictionary>bats_txt</textureDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>bat_01</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="120" />
+	  <flags value="537001984" />
+	  <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.06368414" y="-0.061472736" z="-0.4039751" />
+      <bbMax x="0.05959313" y="0.06368001" z="0.42487618" />
+      <bsCentre x="-0.0020455066" y="0.0011036359" z="0.010450542" />
+      <bsRadius value="0.4236316" />
+      <hdTextureDist value="120" />
+      <name>bat_02</name>
+      <physicsDictionary>bat_02</physicsDictionary>
+	  <textureDictionary>bats_txt</textureDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>bat_02</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="120" />
+	  <flags value="537001984" />
+	  <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.063178785" y="-0.7545992" z="-0.053982973" />
+      <bbMax x="0.074969895" y="0.3133108" z="0.060580123" />
+      <bsCentre x="0.005895555" y="-0.2206442" z="0.003298575" />
+      <bsRadius value="0.5414429" />
+      <hdTextureDist value="120" />
+      <name>spear_01</name>
+      <physicsDictionary>spear_01</physicsDictionary>
+	  <textureDictionary>spear_txt</textureDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>spear_01</assetName>
+    </Item>
+  </archetypes>
+  <name>bats</name>
+</CMapTypes>

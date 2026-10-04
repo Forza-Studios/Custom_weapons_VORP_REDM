@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CMapTypes>
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="120" />
+	  <flags value="537001984" />
+	  <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.4884061" y="-0.104741104" z="-0.5724594" />
+      <bbMax x="0.4884061" y="0.108853504" z="0.5720537" />
+      <bsCentre x="0.0" y="0.0020562" z="-0.00020286441" />
+      <bsRadius value="0.75988406" />
+      <hdTextureDist value="120" />
+      <name>shield_01</name>
+      <physicsDictionary>shield_01</physicsDictionary>  
+	  <textureDictionary>shields_txt</textureDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>shield_01</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="120" />
+	  <flags value="537001984" />
+	  <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.3858322" y="-0.05789328" z="-0.5047616" />
+      <bbMax x="0.3854038" y="0.09458618" z="0.4276103" />
+      <bsCentre x="-0.00021418929" y="0.01834645" z="-0.038575634" />
+      <bsRadius value="0.6097894" />
+      <hdTextureDist value="120" />
+      <name>shield_02</name>
+      <physicsDictionary>shield_02</physicsDictionary>    
+	  <textureDictionary>shields_txt</textureDictionary>	  
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>shield_02</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="120" />
+	  <flags value="537001984" />
+	  <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.2618003" y="-0.03833798" z="-0.61296296" />
+      <bbMax x="0.2618636" y="0.027317025" z="0.5611239" />
+      <bsCentre x="3.1650066e-05" y="-0.0055104773" z="-0.025919527" />
+      <bsRadius value="0.6436253" />
+      <hdTextureDist value="120" />
+      <name>shield_03</name>
+      <physicsDictionary>shield_03</physicsDictionary>  
+	  <textureDictionary>shields_txt</textureDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>shield_03</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="120" />
+	  <flags value="537001984" />
+	  <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.30766234" y="-0.043826547" z="-0.30742395" />
+      <bbMax x="0.30815318" y="0.040987007" z="0.30839163" />
+      <bsCentre x="0.00024542212" y="-0.0014197696" z="0.0004838407" />
+      <bsRadius value="0.4375074" />
+      <hdTextureDist value="120" />
+      <name>shield_04</name>
+      <physicsDictionary>shield_04</physicsDictionary>  	  
+	  <textureDictionary>shields_txt</textureDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>shield_04</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="120" />
+	  <flags value="537001984" />
+	  <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.37209928" y="-0.05924219" z="-0.3695629" />
+      <bbMax x="0.36720327" y="0.046693575" z="0.36973965" />
+      <bsCentre x="-0.0024480075" y="-0.006274307" z="8.837879e-05" />
+      <bsRadius value="0.52544236" />
+      <hdTextureDist value="120" />
+      <name>shield_05</name>
+      <physicsDictionary>shield_05</physicsDictionary>    
+	  <textureDictionary>shields_txt</textureDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>shield_05</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="120" />
+	  <flags value="537001984" />
+	  <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.3847192" y="-0.049655627" z="-0.3848158" />
+      <bbMax x="0.384832" y="0.060436137" z="0.3847354" />
+      <bsCentre x="5.6400895e-05" y="0.005390255" z="-4.0203333e-05" />
+      <bsRadius value="0.546932" />
+      <hdTextureDist value="120" />
+      <name>shield_06</name>
+      <physicsDictionary>shield_06</physicsDictionary>  
+	  <textureDictionary>shields_txt</textureDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>shield_06</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="120" />
+	  <flags value="537001984" />
+	  <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.32101217" y="-0.09389817" z="-0.32010287" />
+      <bbMax x="0.33298862" y="0.07617605" z="0.37114987" />
+      <bsCentre x="0.0059882253" y="-0.008861061" z="0.025523499" />
+      <bsRadius value="0.4833406" />
+      <hdTextureDist value="120" />
+      <name>shield_07</name>
+      <physicsDictionary>shield_07</physicsDictionary>  
+	  <textureDictionary>shields_txt</textureDictionary>	  
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>shield_07</assetName>
+    </Item>	
+  </archetypes>
+  <name>shields</name>
+</CMapTypes>
